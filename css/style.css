@@ -1,0 +1,54 @@
+
+/*  NavBar    */
+navbar {
+    height: 40px;
+}
+
+/* Carousel Image  */
+
+.carousel img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px;
+    max-width: none;
+  }
+
+
+.col-md-4{
+    max-width: none !important;
+    display: inline-block !important;
+    text-align: center;
+}
+
+
+/* Navbar Font */
+.navbar-brand{
+    font-family:  'Pacifico', cursive;
+}
+
+
+/* Footer font */
+.foot-text {
+    font-family:  'Pacifico', cursive;
+}
+
+
+  
+  
+/*  Map */
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
