@@ -52,3 +52,15 @@ navbar {
     position:absolute;
 }
 
+.tabbed-pane.container {
+    width:100%; 
+}
+
+.nav.nav-tabs {
+    width:1400px;
+}
+.tabbed-pane
+{
+margin-right:0px !important;
+}
+
